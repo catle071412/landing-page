@@ -64,3 +64,38 @@ body {
     background-color: #3882F6;
     padding: 7px 36px;
 }
+
+.info {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 10px;
+}
+
+.image-content {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    padding-bottom: 120px;
+}
+
+.content {
+    max-width: 200px;
+}
+
+.content img {
+    border: 5px solid #3882F6;
+    border-radius: 12px;
+    max-width: 170px;
+
+}
+
+.content .text {
+    max-width: 170px;
+    font-size: 18px;
+    text-align: center;
+    color: gray;
+}
+
+
