@@ -56,13 +56,17 @@ body {
     width: 450px;
 }
 
-.hero-text button {
+button {
     margin-top: 8px;
     border-radius: 12px;
     font-size: 18px;
+    padding: 7px 36px;
+}
+
+.hero-text button {
+    border-color: black;
     color: white;
     background-color: #3882F6;
-    padding: 7px 36px;
 }
 
 .info {
@@ -123,3 +127,33 @@ body {
     margin-right: 14px;
     margin-bottom: 14px;
 }
+
+.action {
+    margin: 100px 220px;
+    padding: 50px 120px;
+    border-radius: 12px;
+    background: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.action .main-text {
+    color: white;
+    font-weight: 600;
+    font-size: 22px;
+    margin-bottom: 2px;
+}
+
+.action .sub-text {
+    color: lightgray;
+    font-weight: 100;
+    font-size: 18px;
+}
+
+.action button {
+    border-color: white;
+    color: white;
+    background-color: #3882F6;
+}
+
