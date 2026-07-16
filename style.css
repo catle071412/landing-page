@@ -106,7 +106,7 @@ button {
     display: flex;
     justify-content: center;
     background-color: #E5E7EB;
-    padding: 100px 310px;
+    padding: 100px 320px;
     flex-direction: column;
 }
 
@@ -130,7 +130,7 @@ button {
 
 .action {
     margin: 100px 220px;
-    padding: 50px 120px;
+    padding: 25px 120px;
     border-radius: 12px;
     background: #3882F6;
     display: flex;
@@ -142,7 +142,7 @@ button {
     color: white;
     font-weight: 600;
     font-size: 22px;
-    margin-bottom: 2px;
+    margin-bottom: -15px;
 }
 
 .action .sub-text {
@@ -157,3 +157,20 @@ button {
     background-color: #3882F6;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    padding: 36px;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 80gpx;
+}
+
+.footer p {
+    font-size: 17px;
+    letter-spacing: 0.7px;
+    padding: 5px;
+    margin: 0;
+    font-weight: 300;
+}
