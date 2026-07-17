@@ -1,6 +1,6 @@
 # landing-page
 
-A recipe website built using HTML and CSS during the Odin Project Foundations course to play with flexbox
+A website built using HTML and CSS during the Odin Project Foundations course to practice with flexbox
 
 ## View Page
 View the site here: https://catle071412.github.io/landing-page/ 
